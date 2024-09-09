@@ -9,9 +9,6 @@ As imagens a seguir, apresentam os Critérios de Aceitação para cada uma das H
 ## Critérios de Aceitação FE02 - CRUD Aluno
 ![Critérios de Aceitação FE02 - CRUD Aluno](assets/criterios-aceitacao/fe02-crud-aluno.png){: style="height:auto", width="100%"}
 
-## Critérios de Aceitação FE03 - CRUD Monitor
-![Critérios de Aceitação FE03 - CRUD Monitor](assets/criterios-aceitacao/fe03-crud-monitor.png){: style="height:auto", width="100%"}
-
 ## Critérios de Aceitação FE04 - CRUD Grupo
 ![Critérios de Aceitação FE04 - CRUD Grupo](assets/criterios-aceitacao/fe04-crud-grupo.png){: style="height:auto", width="100%"}
 
@@ -19,13 +16,10 @@ As imagens a seguir, apresentam os Critérios de Aceitação para cada uma das H
 <span style="color:white; font-size:26px;">Não entrou no MVP.</span><br><br>
 
 ## Critérios de Aceitação FE06 - CRUD Atividade
-![Critérios de Aceitação FE06 - CRUD Atividade](assets/criterios-aceitacao/fe06-crud-atividade.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE06 - CRUD Atividade](assets/criterio-de-aceitacao-crud-atividade.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE07 - Emitir Planilhas
-![Critérios de Aceitação FE07 - Emitir Planilhas](assets/criterios-aceitacao/fe07-emitir-planilhas.png){: style="height:auto", width="100%"}
-
-## Critérios de Aceitação FE08 - Corrigir Atividades
-![Critérios de Aceitação FE08 - Corrigir Atividades](assets/criterios-aceitacao/fe08-corrigir-atividades.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE07 - Emitir Planilhas](/assets/criterios-aceite-submeterAtividades.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE09 - CRUD Professor
 ![Critérios de Aceitação FE09 - CRUD Professor](assets/criterios-aceitacao/fe09-crud-professor.png){: style="height:auto", width="100%"}
@@ -44,8 +38,8 @@ As imagens a seguir, apresentam os Critérios de Aceitação para cada uma das H
 ## Critérios de Aceitação FE14 - Professor/Admin Login e Logout
 ![Critérios de Aceitação FE14 - Professor/Admin Login e Logout](assets/criterios-aceitacao/fe14-professor-admin-login-logout.png){: style="height:auto", width="100%"}
 
-## Critérios de Aceitação FE15 - Aluno/Monitor Login e Logout
-![Critérios de Aceitação FE15 - Aluno/Monitor Login e Logout](assets/criterios-aceitacao/fe15-aluno-monitor-login-logout.png){: style="height:auto", width="100%"}
+## Critérios de Aceitação FE15 - Aluno Login e Logout
+![Critérios de Aceitação FE15 - Aluno Login e Logout](/assets/criterio-aceite-Aluno-login-logout.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE13 - Visualizar e Baixar Conteúdos
 <span style="color:white; font-size:26px;">Não entrou no MVP.</span><br><br>
