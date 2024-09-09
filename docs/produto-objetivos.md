@@ -19,3 +19,9 @@ Nosso objetivo é desenvolver uma plataforma abrangente que otimize o desempenho
 * Criar uma página dedicada à apresentação e compartilhamento dos trabalhos finais da disciplina, oferecendo um espaço centralizado para avaliação e reconhecimento dos projetos desenvolvidos pelos alunos. 
 
 Com essas funcionalidades, buscamos promover a eficiência acadêmica e facilitar a interação dinâmica entre professores e alunos, enriquecendo significativamente o processo educacional.
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 06/04/2024 | Criação da página e Declaração de Objetivos do produto|Grupo   |

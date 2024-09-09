@@ -13,3 +13,9 @@
 
 
 <!-- TODO melhorar colocando dentro de uma tabela com icones ou imagens que representem a tecnologia -->
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 06/04/2024 | Criação da página e Tecnologias a Serem Utilizadas|Gustavo   |

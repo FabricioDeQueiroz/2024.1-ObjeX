@@ -36,3 +36,10 @@ Segue abaixo a tabela 2 com os resultados obtidos da validação do conteúdo da
 | 8      |A descrição dos problemas e das expectativas estão claras?|  ✅ |   |
 | 9     |Os PBIs e Features estão se referindo de forma clara às personas?| ✅ |  |
 
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 03/09/2024 | Criação da página                                    | Grupo   |
+|1.1|06/09/2024| Revisões e considerações | Grupo |

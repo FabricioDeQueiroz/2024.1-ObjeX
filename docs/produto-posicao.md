@@ -11,3 +11,11 @@ Com base nos cenários mencionados, foi apresentada ao Professor a proposta da p
 | Que                       | Facilita o processo de aprendizado e formação de grupos de acordo com a necessidade do professor.  |
 | Ao contrário              | BeeCrowd, Brilliant, Excel.                       |
 | Nosso produto             | Junta funções de ferramentas diversas em uma só plataforma, às unificando e facilitando para o usuário final.                                                 |
+
+
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 06/04/2024 | Criação da página e Declaração de Posição do produto|Grupo   |

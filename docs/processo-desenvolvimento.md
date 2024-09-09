@@ -65,3 +65,16 @@ Durante todo o processo, os requisitos serão representados por meio de prototip
 ### **Organização e Atualização:**
 
 Por fim, os requisitos serão organizados e atualizados continuamente ao longo do desenvolvimento. Isso será feito através de um Kanban (Scrum board) em uma ferramenta de gerenciamento de projetos como o GitHub Projects, garantindo que os requisitos sejam gerenciados de forma eficaz e priorizados corretamente.
+
+
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 05/04/2024 | Criação da página |Grupo   |
+|1.1|05/04/2024| Processo, cliclo de vida, processo e atividades | Grupo |
+|1.2|17/04/2024| Atualização | Grupo |
+|1.3|06/08/2024| Revisão e Atualização | Grupo |
+
+

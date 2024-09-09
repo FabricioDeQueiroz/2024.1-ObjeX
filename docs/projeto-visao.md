@@ -83,3 +83,15 @@
 * Inviabilidade da Tecnologia: Se as tecnologias utilizadas no projeto não conseguirem atender adequadamente aos requisitos, a equipe deverá realizar uma avaliação crítica e uma revisão do projeto.
 
 * Adição de novos requisitos: Conforme o projeto progride, é possível que surjam novos requisitos que necessitem da implementação de funcionalidades adicionais ou aumento do escopo de funcionalidades já existentes.
+
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 05/04/2024 | Planejamento Visão geral do produto    |Grupo   |
+|1.1|06/04/2024| Visão Geral do Projeto | Grupo |
+|1.2|10/04/2024| Matriz de comunicação, Atas das reuniões | Grupo |
+|1.3|11/04/2024| Relatorios e Gerenciamento de riscos | Grupo |
+|1.4|20/08/2024| Revisões e atualizações | Grupo |
+

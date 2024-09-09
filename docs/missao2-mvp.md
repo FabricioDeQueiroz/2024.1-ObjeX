@@ -67,3 +67,10 @@ O conceito de MVP (Minimum Viable Product), ou Produto Mínimo Viável, é funda
 | EP03 - Alunos|US37 |Eu como aluno desejo visualizar  conteúdos disponibilizados pelo professor e fazer o download para auxiliar nos meus estudos|
 
 </center>
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 06/09/2024 | Criação da página, US's do MVP |Caio   |
+| 1.1   | 20/09/2024 | Revisão |Grupo   |

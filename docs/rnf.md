@@ -18,3 +18,12 @@ Para definir os requisitos não funcionais do projeto, foram considerados os asp
 | RNF04          | Desempenho      | O site deve ser capaz de lidar com um volume de tráfego de ao menos 1 turma simultânea.                                        |
 | RNF05          | Usabilidade     | O site deve ser intuitivo e fácil de usar, permitindo que usuários com qualquer nível de experiência consigam navegar e encontrar o que querem com facilidade. |
 | RNF06          | Acessibilidade  | O site deve ser acessível seguindo as diretrizes estabelecidas pelo padrão WCAG, no nível AA.                                  |
+
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 06/04/2024 | Criação da página, objetivo, Metodologia |Fabricio   |
+| 1.2    | 03/09/2024 | Tabela de Requisitos Não Funcionais |Grupo   |
+| 1.3    | 20/09/2024 | Revisão |Grupo   |

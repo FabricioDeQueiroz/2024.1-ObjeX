@@ -87,3 +87,10 @@ Tabela 3 - Pontuação das User Stories
 |US41 | 3                | 3           | 7        |
 
 </center>
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 06/08/2024 | Criação da página, Valor de Negócio, Dificuldade e Pontuação |Grupo   |
+| 1.1    | 20/09/2024 | Revisão e atualização |Nicollas   |

@@ -49,3 +49,7 @@ As imagens a seguir, apresentam os Critérios de Aceitação para cada uma das H
 
 ## Critérios de Aceitação FE13 - Visualizar e Baixar Conteúdos
 <span style="color:white; font-size:26px;">Não entrou no MVP.</span><br><br>
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 20/08/2024 | Criação da página e criterios de aceitação                                    | Grupo   |
