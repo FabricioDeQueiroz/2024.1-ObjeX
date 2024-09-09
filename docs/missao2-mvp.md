@@ -26,7 +26,7 @@ O conceito de MVP (Minimum Viable Product), ou Produto Mínimo Viável, é funda
 | EP01 - Professor|US23 | Eu como professor, quero ser capaz de deletar uma atividade para caso ela não seja mais necessária |
 | EP01 - Professor|US24 | Eu como professor quero emitir planilhas de grupos formados para facilitar a organização dos mesmos |
 | EP01 - Professor|US25 | Eu como professor quero emitir planilhas de turmas para facilitar a organização das mesmas|
-| EP01 - Professor|US26 | Eu como professor quero corrigir as atividades dos alunos para poder atribuir notas|
+| EP01 - Professor|US26 | Eu como professor quero acessar as respostas de código que foram corrigidas pelo sistema|
 | EP01 - Professor|US27 | Eu como professor Admin, quero ser capaz de cadastrar um professor para que ele consiga exercer suas funções |
 | EP01 - Professor|US28 | Eu como professor Admin, quero ser capaz de editar um professor para alterar suas informações |
 | EP01 - Professor|US29 | Eu como professor Admin, quero ser capaz de visualizar um professor para verificar suas informações|
@@ -37,7 +37,7 @@ O conceito de MVP (Minimum Viable Product), ou Produto Mínimo Viável, é funda
 | EP01 - Professor|US43 | Eu como Professor Admin, desejo fazer logout para sair da plataforma de maneira segura |
 | EP03 - Aluno|US38 |Eu como aluno desejo fazer login para ter acesso às funcionalidades |
 | EP03 - Aluno|US39 |Eu como aluno desejo fazer logout para sair da plataforma de maneira segura |
-| EP03 - Alunos|US32 | Eu como aluno desejo responder atividades de múltipla escolha para poder ser avaliado |
+| EP03 - Alunos|US32 | Eu como aluno desejo responder atividades de texto para poder ser avaliado |
 | EP03 - Alunos|US33 | Eu como aluno desejo responder atividades de código para poder ser avaliado |
 | EP03 - Alunos|US34 |Eu como aluno desejo responder atividades de envio de imagem para poder ser avaliado |
 | EP03 - Alunos|US35 | Eu como aluno desejo entrar em um grupo para que eu possa participar das atividades da disciplina  |

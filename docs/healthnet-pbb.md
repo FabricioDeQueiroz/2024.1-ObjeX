@@ -27,7 +27,5 @@ A criação segue a mesma apresentada no PBB da atividade (HealthNet), com a dif
 
 | Versão | Data       | Descrição                                                         | Autor(es)       |
 |--------|------------|-------------------------------------------------------------------|-----------------|
-| 2.3   | 20/08/2024 |  USM - ComunEventos                              | Grupo   |
-|2.3|21/08/2024| PBB - HealthNet, PBB - OBJEX   | Grupo
-|2.3|23/08/2024| Revisão e video   | Grupo
+| 1.0   | 20/08/2024 |  Criação da página e adição do PBB                              | Grupo   |
 

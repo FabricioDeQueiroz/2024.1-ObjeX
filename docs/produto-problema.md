@@ -12,7 +12,7 @@ Dificuldade no lançamento de notas:
 
 * Devido a grande quantidade de alunos, o processo de correção e lançamento de notas é extenso e exaustivo. Dificultando a entrega de notas e até mesmo gerar um feedback aos alunos para que eles possam melhorar nos pontos em que falharam. 
 
-Esses desafios impactam negativamente o andamento do curso, tornando necessário um sistema eficiente e organizado para a resolução dos problemas citados acima. Com isso, aliado ao desejo do professor em gamificar a disciplina, surgiu a ideia do ObjeX.
+Esses desafios impactam negativamente o andamento do curso, tornando necessário um sistema eficiente e organizado para a resolução dos problemas citados acima. Com isso, surgiu a ideia do ObjeX.
 
 
 ## Histórico de Versão

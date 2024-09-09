@@ -5,7 +5,7 @@
 
 A "HealthNet" enfrenta um desafio significativo devido à falta de uma estrutura unificada para a gestão de dados de pacientes em suas diversas unidades espalhadas por vários estados. Os profissionais de saúde lidam com sistemas desatualizados e incompatíveis, resultando em prontuários isolados que não se comunicam entre si. Isso atrasa os processos, aumenta o risco de erros médicos e dificulta o acesso a informações completas e atualizadas. Além disso, os sistemas de agendamento de consultas são ineficientes, causando longos tempos de espera e frustração. O controle de medicamentos também é prejudicado, dificultando o rastreamento de prescrições e aumentando o risco de complicações médicas. A dependência de processos manuais e papelada agrava ainda mais a situação, tornando as operações lentas, propensas a erros, e complicando a conformidade com regulamentações de proteção de dados de saúde.
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKvdDBkU=/?moveToViewport=555638,227310,123111,36455&embedId=743100508146" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKmAWbH4=/?moveToViewport=-68576,-12863,93259,35647&embedId=790013818028" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 A atividade de PBB foi realizada com a criação de 3 Frames no Miro, sendo o primeiro (PBB) o diagrama PBB em si, detalhando os Problemas e Expectativas acerca de como é feito atualmente e como as personas esperam que seja. Detalha as personas, informando o que elas fazem e o que elas esperam fazer no produto.
 
@@ -15,13 +15,6 @@ Logo em seguida, são mostrados os Itens do Product Backlog, que são as Histór
 
 A priorização das US's foi feita em seguida, no Frame chamado PRIORIZAÇÃO COORG, utilizando o método de priorização COORG, onde a priorização é realizada verticalmente e horizontalmente, onde, verticalmente representa a prioridade (quanto mais alta, maior), e horizontalmente representando a sequência lógica de ordem.
 
-## PBB do Projeto (ObjeX)
-
-A título de curiosidade, segue o PBB do nosso próprio projeto.
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKuUGHA8=/?moveToViewport=-114086,65674,34019,11385&embedId=948523812326" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
-A criação segue a mesma apresentada no PBB da atividade (HealthNet), com a diferença de que só possui dois Frames no Miro, o primeiro sendo o PBB em si, e o segundo (Pontuação VN DFD) sendo a priorização das US's seguindo o método de Priorização Dificuldade + Valor de Negócio.
 
 ## Histórico de Versão
 

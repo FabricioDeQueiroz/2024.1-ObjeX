@@ -100,6 +100,7 @@ nav:
     - DOR e DOD: dor-dod.md
     - BDD: healthnet-bdd.md
     - PBB: ppb.md
+    - USM: usm.md
 
 copyright: |
   REQ-2024.1 <a href="https://github.com/mdsreq-fga-unb/2024.1-ObjeX"  target="_blank" rel="noopener">CyberHunterz</a>

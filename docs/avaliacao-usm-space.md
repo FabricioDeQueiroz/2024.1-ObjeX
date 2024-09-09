@@ -2,9 +2,6 @@ Neste documento, apresentamos os resultados da verificação e validação do Us
 
 A metodologia utilizada foi a de Checklist de verificação e Checklist de Validação. Assim sendo o de Verificação com foco na estrutura da atividade de USM e o de Validação mais concentrado no conteúdo do USM. 
 
-## Verificação e Validação (MIRO)
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKvdDBkU=/?moveToViewport=542904,311400,145320,75016&embedId=300046176389" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
 
 ## Checklist de Verificação 
 Segue abaixo a tabela 1 com os resultados obtidos da verificação estrutural da atividade de USM realizada pelo grupo [Space Edge](https://mdsreq-fga-unb.github.io/2024.1-Echoeasy/#/./entregas/missao_03/entrega_final?id=_3-usm-user-story-maping)
