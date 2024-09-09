@@ -78,3 +78,9 @@ Estabelece os critérios que um item precisa cumprir para ser considerado comple
 | EP03 - Alunos|US34 || | | | 
 | EP03 - Alunos|US35 || | | | 
 | EP03 - Alunos|US36 || | | | 
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0    | 09/09/2024 | Criação da pagina e DOR e DOD                                     | Grupo   |
