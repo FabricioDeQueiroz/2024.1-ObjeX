@@ -1,4 +1,4 @@
-Neste documento, apresentamos os resultados da verificação e validação do Product Backlog Building (PBB) realizado pelo grupo Space Edge para a atividade HealthNet. O objetivo é garantir que o PBB foi conduzido de acordo com as melhores práticas e que as histórias de usuário, features e personas estão bem definidas e alinhadas com os requisitos do produto.
+Neste documento, apresentamos os resultados da verificação e validação do Product Backlog Building (PBB) realizado pelo grupo [Space Edge](https://mdsreq-fga-unb.github.io/2024.1-Echoeasy/#/./entregas/missao_03/entrega_final?id=_2-pbb-product-backlog-building) para a atividade HealthNet. O objetivo é garantir que o PBB foi conduzido de acordo com as melhores práticas e que as histórias de usuário, features e personas estão bem definidas e alinhadas com os requisitos do produto.
 
 A metodologia utilizada foi a de Checklist de verificação e Checklist de Validação. Assim sendo o de Verificação com foco na estrutura da atividade de PBB e o de Validação mais concentrado no conteúdo do PBB. 
 
@@ -6,7 +6,7 @@ A metodologia utilizada foi a de Checklist de verificação e Checklist de Valid
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKhlhb2s=/?moveToViewport=-461,-1724,6785,3101&embedId=189018763101" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Checklist de Verificação 
-Segue abaixo a tabela 1 com os resultados obtidos da verificação estrutural da atividade de PBB realizada pelo grupo Space Edge
+Segue abaixo a tabela 1 com os resultados obtidos da verificação estrutural da atividade de PBB realizada pelo grupo [Space Edge](https://mdsreq-fga-unb.github.io/2024.1-Echoeasy/#/./entregas/missao_03/entrega_final?id=_2-pbb-product-backlog-building)
 
 | **ID** | **Critério Avaliado**             | **✅/❌/🟡** <br>(Correto/Incorreto/Incompleto)| **Observações** |
 |--------|-----------------------------------|-------------|-----------------|
@@ -22,7 +22,7 @@ Segue abaixo a tabela 1 com os resultados obtidos da verificação estrutural da
 | 10     |Os PBI’s estão organizados de forma adequada?| ❌ | Devido à má organização de features o PBI ficou desorganizado |
 
 ## Checklist de Validação
-Segue abaixo a tabela 2 com os resultados obtidos da validação do conteúdo da atividade de PBB realizada pelo grupo Space Edge
+Segue abaixo a tabela 2 com os resultados obtidos da validação do conteúdo da atividade de PBB realizada pelo grupo [Space Edge](https://mdsreq-fga-unb.github.io/2024.1-Echoeasy/#/./entregas/missao_03/entrega_final?id=_2-pbb-product-backlog-building)
 
 | **ID** | **Critério Avaliado** | **✅/❌/🟡** <br>(Correto/Incorreto/Incompleto) | **Observações** |
 |--------|-----------------------------------|-------------|-----------------|
