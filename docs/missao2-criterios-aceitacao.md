@@ -19,13 +19,13 @@ As imagens a seguir, apresentam os Critérios de Aceitação para cada uma das H
 <span style="color:white; font-size:26px;">Não entrou no MVP.</span><br><br>
 
 ## Critérios de Aceitação FE06 - CRUD Atividade
-![Critérios de Aceitação FE06 - CRUD Atividade](/assets/criterio-de-aceitacao-crud-atividade-i.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE06 - CRUD Atividade](assets/criterios-aceitacao/fe06-crud-atividade.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE07 - Emitir Planilhas
-![Critérios de Aceitação FE07 - Emitir Planilhas](/assets/criterios-aceite-submeterAtividades.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE07 - Emitir Planilhas](assets/criterios-aceitacao/fe07-emitir-planilhas.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE08 - Correção automática de código
-![Critérios de Aceitação FE08 - Correção automática de código](/assets/fe08-correcao-codigo.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE08 - Correção automática de código](assets/criterios-aceitacao/fe08-correcao-codigo.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE09 - CRUD Professor
 ![Critérios de Aceitação FE09 - CRUD Professor](assets/criterios-aceitacao/fe09-crud-professor.png){: style="height:auto", width="100%"}
@@ -45,17 +45,17 @@ As imagens a seguir, apresentam os Critérios de Aceitação para cada uma das H
 <span style="color:white; font-size:26px;">Não entrou no MVP.</span><br><br>
 
 ## Critérios de Aceitação FE14 - Professor Login e Logout
-![Critérios de Aceitação FE14 - Professor/Admin Login e Logout](assets/criterios-aceitacao/fe14-professor-login-logout.png.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE14 - Professor Login e Logout](assets/criterios-aceitacao/fe14-professor-login-logout.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE15 - Aluno Login e Logout
-![Critérios de Aceitação FE15 - Aluno Login e Logout](/assets/criterio-aceite-Aluno-login-logout.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE15 - Aluno Login e Logout](assets/criterios-aceitacao/fe15-aluno-monitor-login-logout.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE16 - Admin Login e Logout
-![Critérios de Aceitação FE15 - Aluno Login e Logout](/assets/criterios-aceitacao/fe16-admin-login-logout.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE16 - Admin Login e Logout](assets/criterios-aceitacao/fe16-admin-login-logout.png){: style="height:auto", width="100%"}
 
 
 
 | Versão | Data       | Descrição                                                         | Autor(es)       |
 |--------|------------|-------------------------------------------------------------------|-----------------|
 | 1.0    | 20/08/2024 | Criação da página e criterios de aceitação                                    | Grupo   |
-| 2.0    | 09/09/2024 | Atualizações                                    | Grupo   |
+| 1.1    | 09/09/2024 | Atualizações                                    | Grupo   |

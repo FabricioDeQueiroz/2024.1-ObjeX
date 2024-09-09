@@ -95,3 +95,10 @@ Desça até a descrição do Card, onde se encontra a História de Usuário:
 | Dar Feedback | Publicar feedback | - Publicar um comentário sobre o evento |
 
 </center>
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                                         | Autor(es)       |
+|--------|------------|-------------------------------------------------------------------|-----------------|
+| 1.0   | 20/08/2024 |  Criação da página                            | Grupo   |
+| 1.1   | 22/08/2024 |  Adicionando USM MIRO                            | Grupo   |

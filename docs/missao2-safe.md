@@ -38,6 +38,6 @@ São unidades de trabalho que entregam valor direto aos stakeholders. Representa
 
 | Versão | Data       | Descrição                                                         | Autor(es)       |
 |--------|------------|-------------------------------------------------------------------|-----------------|
-| 2.0    | 28/07/2024 | Diagrama SAFe, Tema Estratégico, Épicos, Capacidades                                 | Grupo   |
-|2.1|29/07/2024| Features | Grupo
-| 2.2   | 31/07/2024 | Revisão                                          | Fabrício De Queiroz e Gustavo da Costa |
+| 1.0    | 28/07/2024 | Diagrama SAFe, Tema Estratégico, Épicos, Capacidades                                 | Grupo   |
+|1.1|29/07/2024| Features | Grupo
+| 1.2   | 31/07/2024 | Revisão                                          | Fabrício De Queiroz e Gustavo da Costa |

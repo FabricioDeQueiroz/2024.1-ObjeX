@@ -29,4 +29,4 @@
 | 1.0    | 10/04/2024 | Historia da Facção    , Material de apresentação                                         | Grupo   |
 |1.1|14/04/2024| Problemas, Tecnologias, Objetivos do produto | Grupo
 | 1.2    | 16/04/2024 | Edição e ajustes do video                        | Gustavo Costa  |
-| 1.2   | 16/04/2024 | Revisão de todos os processos e envio do video                                          | Fabrício De Queiroz   |
+| 1.3   | 16/04/2024 | Revisão de todos os processos e envio do video                                          | Fabrício De Queiroz   |
