@@ -16,10 +16,6 @@ O conceito de MVP (Minimum Viable Product), ou Produto Mínimo Viável, é funda
 | EP01 - Professor|US05 |Eu como professor, quero ser capaz de visualizar os alunos, para verificar suas informações|
 | EP01 - Professor|US06 | Eu como professor, quero ser capaz de editar um aluno, para mudar as informações do mesmo|
 | EP01 - Professor|US07 | Eu como professor, quero ser capaz de deletar um aluno, para caso ele não seja necessário|
-| EP01 - Professor|US08 | Eu como professor, quero ser capaz de criar um monitor, para que ele possa exercer suas funções|
-| EP01 - Professor|US09 | Eu como professor, quero ser capaz de visualizar os monitores, para verificar suas informações |
-| EP01 - Professor|US10 |Eu como professor, quero ser capaz de editar um monitor, para mudar as informações do mesmo|
-| EP01 - Professor|US11 | Eu como professor, quero ser capaz de deletar um monitor, para caso ele não seja necessário|
 | EP01 - Professor|US12 | Eu como professor, quero ser capaz de criar um grupo, para que os Alunos possam entrar ou sair|
 | EP01 - Professor|US13 | Eu como professor, quero ser capaz de visualizar um grupo, para verificar os alunos nele inseridos|
 | EP01 - Professor|US14 | Eu como professor, quero ser capaz de editar um grupo, para mudar as informações do mesmo|
@@ -63,6 +59,10 @@ O conceito de MVP (Minimum Viable Product), ou Produto Mínimo Viável, é funda
 | EP01 - Professor|US17 |  Eu como professor, quero ser capaz de visualizar um conteúdo inserido na plataforma para ajudar na organização e ensino|
 | EP01 - Professor|US18 |  Eu como professor, quero ser capaz de editar um conteúdo, para mudar as informações|
 | EP01 - Professor|US19 |  Eu como professor, quero ser capaz de deletar um conteúdo para caso ele não seja mais necessário|
+| EP01 - Professor|US08 | Eu como professor, quero ser capaz de criar um monitor, para que ele possa exercer suas funções|
+| EP01 - Professor|US09 | Eu como professor, quero ser capaz de visualizar os monitores, para verificar suas informações |
+| EP01 - Professor|US10 |Eu como professor, quero ser capaz de editar um monitor, para mudar as informações do mesmo|
+| EP01 - Professor|US11 | Eu como professor, quero ser capaz de deletar um monitor, para caso ele não seja necessário|
 | EP02 - Monitor|US31 |Eu como monitor desejo fornecer feedback para os alunos para auxiliar no desenvolvimento de atividades |
 | EP03 - Alunos|US37 |Eu como aluno desejo visualizar  conteúdos disponibilizados pelo professor e fazer o download para auxiliar nos meus estudos|
 

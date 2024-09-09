@@ -26,7 +26,7 @@ o ScrumXP é uma abordagem que combina a gestão de projeto do Scrum com as prá
 
 * Ritmo de Entrega: A metodologia ScrumXP promove um ritmo de entrega consistente e previsível, com a conclusão de incrementos de produto funcionais no final de cada sprint. Isso permite que a equipe entregue valor de forma regular ao longo do tempo, mantendo um fluxo de trabalho estável e eficiente. 
 
-* Práticas de Testes Integradas: No ScrumXP, os testes são incorporados desde o início do desenvolvimento. A metodologia promove o desenvolvimento orientado por testes (TDD - Test-Driven Development), onde os testes são escritos antes da implementação do código. Isso garante que cada incremento de funcionalidade seja acompanhado por testes automatizados que validam seu comportamento esperado.
+* Programação em Pares: No ScrumXP, a programação em pares é amplamente utilizada como prática essencial. Dois desenvolvedores trabalham juntos no mesmo código, colaborando para escrever e revisar as soluções em tempo real. Essa abordagem melhora a qualidade do código, promove a troca de conhecimento entre os membros da equipe e reduz a incidência de erros. Além disso, a prática também fortalece a comunicação e a cooperação dentro da equipe de desenvolvimento.
 
 ![Srum](assets/scrum.jpg){: style="height:auto", width="100%"}
 

@@ -16,7 +16,7 @@ As imagens a seguir, apresentam os Critérios de Aceitação para cada uma das H
 <span style="color:white; font-size:26px;">Não entrou no MVP.</span><br><br>
 
 ## Critérios de Aceitação FE06 - CRUD Atividade
-![Critérios de Aceitação FE06 - CRUD Atividade](assets/criterio-de-aceitacao-crud-atividade.png){: style="height:auto", width="100%"}
+![Critérios de Aceitação FE06 - CRUD Atividade](/assets/criterio-de-aceitacao-crud-atividade-i.png){: style="height:auto", width="100%"}
 
 ## Critérios de Aceitação FE07 - Emitir Planilhas
 ![Critérios de Aceitação FE07 - Emitir Planilhas](/assets/criterios-aceite-submeterAtividades.png){: style="height:auto", width="100%"}
