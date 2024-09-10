@@ -63,9 +63,9 @@ o ScrumXP é uma abordagem que combina a gestão de projeto do Scrum com as prá
 | Verificação e Validação   | Feedback               | Trello, Miro     | Backlog e Priorização de RFs.
 | Organização e Atualização | Kanban (Scrum board)   | Trello, Miro | Backlog e Priorização de RFs. 
 
-## Trello e Miro
+## Trello e Miro do Projeto
 
-<iframe src="(https://trello.com/b/BlA8q6CY)" frameBorder="0" width="100%" height="600"></iframe> 
+[trello.com](https://trello.com/b/BlA8q6CY)
 
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKvdDBkU=/?moveToViewport=1991,40977,32203,15850&embedId=403806194529" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
