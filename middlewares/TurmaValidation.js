@@ -10,14 +10,9 @@ const TurmaValidation = () => {
         body('horario')
             .isString()
             .withMessage("O horario é obrigatório"),
-        body('professor')
-            .isString()
-            .withMessage("O professor é obrigatorio"),
     ]
 };
-
 
 module.exports = {
     TurmaValidation
 }
-

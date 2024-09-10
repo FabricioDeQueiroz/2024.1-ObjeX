@@ -1,7 +1,7 @@
 const Professor = require("../../models/Professor");
 
 const get_prof = async(req, res) => {
-    const { id } = req.body;
+    const { id } = req.params;
 
     // procura um professor pelo id
     await Professor.findById(id)
@@ -27,6 +27,7 @@ const get_profs = async(req, res) => {
     // retorna todos os professores do banco
     await Professor.find()
     .select('_id nome email turma role createdAt updatedAt')
+    .populate('turma', '_id nome')
     .then(result => {
         if(result && result.length > 0) {
             return res.status(200).json(result);

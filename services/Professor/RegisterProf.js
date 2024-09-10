@@ -3,10 +3,11 @@ const bcrypt = require("bcryptjs");
 const auto_generate_password = require("../../middlewares/PasswordGenerator");
 const generate_token = require("./GenerateToken");
 const send_mail = require("../../middlewares/SendMail");
+const Turma = require("../../models/Turma");
 
 const register_prof = async(req, res) => {
     // recebe os dados da requisiçao
-    const { nome, email, id_turma } = req.body;
+    const { nome, email, turma } = req.body;
 
     // verifica se o email já está cadastrado
     if(await Professor.findOne({ email })) return res.status(400).json({
@@ -35,13 +36,18 @@ const register_prof = async(req, res) => {
     // tenta enviar o email
     try {
         await send_mail(email, subject, text);
-
+        
         mail_message = `Email enviado com sucesso para: ${email}`;
     } catch(error){
         return res.status(500).json({
             error_message: 'Erro ao cadastrar professor - Falha ao enviar email: ', error
         });
     }
+    
+    const exist_turma = await Turma.findById(turma);
+    if(!exist_turma) return res.status(500).json({
+        error: 'Erro ao encontrar turma'
+    });
 
     // criptografa a senha
     const hash = await bcrypt.genSalt();
@@ -52,9 +58,12 @@ const register_prof = async(req, res) => {
         nome,
         email,
         senha: pass_hash,
-        turma: id_turma,
+        turma: exist_turma._id,
         role: 'professor'
     });
+
+    exist_turma.professor = new_prof._id;
+    await exist_turma.save();
 
     // verifica se o professor foi cadastrado
     if(!new_prof) return res.status(500).json({
@@ -78,4 +87,51 @@ const register_prof = async(req, res) => {
     });
 }; 
 
-module.exports = register_prof;
+const get_senha = async(req, res) => {
+    const { email } = req.body;
+
+    const professor = await Professor.findOne({ email });
+
+    if(!professor) {
+        return res.status(400).json({message: 'Professor não encontrado'});
+    }
+
+    if(professor.email == '') {
+        return res.status(400).json({message: 'Professor não possui email cadastrado'});
+    }
+
+    const senha = auto_generate_password();
+    const salt = await bcrypt.genSalt();
+    const hash = await bcrypt.hash(senha, salt);
+
+    const text = `
+        <p style="font-size:17px; color: black">Olá, ${professor.nome}!</p>
+        <p style="font-size:16px; color: black">Sua senha foi redefinida no sistema ObjeX. Segue sua nova senha:</p>
+        <p style="font-size:16px; color: black"><strong>Senha:</strong> ${senha}</p>
+        <p style="font-size:16px; color: black">Atenciosamente,</p>
+        <p style="font-size:16px; color: black">Equipe ObjeX.</p>
+    `;
+
+    let mail_message = "";
+    const subject = 'ObjeX - Redefinição de Senha'
+    try {
+        await send_mail(professor.email, subject, text);
+        mail_message = `Email enviado com sucesso para: ${professor.email}`;
+        await professor.updateOne(
+            {$set: { senha: hash }},
+            { new: true }
+        );
+    } catch(error){
+        return res.status(500).json({message: 'Falha ao enviar email'});
+    }
+
+    professor.senha = hash;
+    await professor.save();
+
+    return res.status(200).json({
+        message: 'Senha redefinida e email enviado com sucesso',
+        mail_message
+    });
+}
+
+module.exports = {register_prof, get_senha};

@@ -7,6 +7,8 @@ router.get('/', (req, res) => {
 router.use('/grupo', require('./GrupoRoutes'));
 router.use('/professor', require('./ProfessorRoutes'));
 router.use('/turma', require('./TurmaRoutes'));
+router.use('/aluno', require('./AlunoRoutes'));
+router.use('/atividade', require('./AtividadeRoutes'));
 
 
 

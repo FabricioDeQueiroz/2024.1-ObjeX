@@ -1,4 +1,5 @@
 const Turma = require("../../models/Turma");
+const Professor = require("../../models/Professor");
 
 const register_turma = async(req, res) => {
     // recebe os dados da requisiçao
@@ -13,7 +14,6 @@ const register_turma = async(req, res) => {
     const new_turma = await Turma.create({
         nome,
         horario,
-        professor
     });
     
     // verifica se a turma foi cadastrada
@@ -27,7 +27,6 @@ const register_turma = async(req, res) => {
             id: new_turma._id,
             nome: new_turma.nome,
             horario: new_turma.horario,
-            professor: new_turma.professor
         }
     });
 };
