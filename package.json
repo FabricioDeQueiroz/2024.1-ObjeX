@@ -4,16 +4,22 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.7.3",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@monaco-editor/react": "^4.6.0",
+    "axios": "^1.7.7",
+    "exceljs": "^4.4.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.0"
+    "react-router-dom": "^6.26.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "react-toastify": "^10.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",

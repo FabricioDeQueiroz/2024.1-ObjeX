@@ -1,7 +1,7 @@
 import axios from "axios";
 import { createContext, useContext, useEffect, useState } from "react";
-import { PROFESSOR_ENDPOINT } from "../util/constants";
-import { Navigate } from "react-router-dom";
+import { ALUNO_ENDPOINT, API_BASE_URL, PROFESSOR_ENDPOINT } from "../util/constants";
+import { Navigate, useNavigate } from "react-router-dom";
 
 const AuthContext = createContext();
 
@@ -10,21 +10,66 @@ export const AuthProvider = ({ children }) => {
     const [ token, setToken ] = useState(null);
     const [ isReady, setIsReady ] = useState(false);
 
-    const login = async(userData, user_type) => {
-        try {
-            if(user_type === 'admin') {
-                const res = await axios.post(`${PROFESSOR_ENDPOINT}/admin/login`, userData);
-                setUser(res.data.user);
-                setToken(res.data.token);
-                localStorage.setItem('objex@auth_user', JSON.stringify(res.data.user));
-                localStorage.setItem('objex@auth_token', res.data.token);
-                setIsReady(true);
-                return true;
-            }
 
-        } catch (error) {
-            console.log(error);
-            return false;
+    const login = async(userData, user_type) => {
+        switch(user_type) {
+            case 'admin': {
+                try {
+                    const res = await axios.post(`${API_BASE_URL}/professor/admin/login`, userData);
+                    setUser(res.data.user);
+                    setToken(res.data.token);
+                    localStorage.setItem('objex@auth_user', JSON.stringify(res.data.user));
+                    localStorage.setItem('objex@auth_token', res.data.token);
+                    setIsReady(true);
+                    return {
+                        passou: true,
+                        retorno: res
+                    };
+                } catch(err) {
+                    return {
+                        passou: false,
+                        retorno: err.response.data
+                    }
+                }
+            }
+            case 'estudante': {
+                try {
+                    const res = await axios.post(`${ALUNO_ENDPOINT}/login`, userData);
+                    setUser(res.data.user);
+                    setToken(res.data.token);
+                    localStorage.setItem('objex@auth_user', JSON.stringify(res.data.user));
+                    localStorage.setItem('objex@auth_token', res.data.token);
+                    setIsReady(true);
+                    return {
+                        passou: true,
+                        retorno: res
+                    };
+                } catch(err) {
+                    return {
+                        passou: false,
+                        retorno: err.response.data
+                    }
+                }
+            }
+            case 'professor': {
+                try {
+                    const res = await axios.post(`${PROFESSOR_ENDPOINT}/login`, userData);
+                    setUser(res.data.user);
+                    setToken(res.data.token);
+                    localStorage.setItem('objex@auth_user', JSON.stringify(res.data.user));
+                    localStorage.setItem('objex@auth_token', res.data.token);
+                    setIsReady(true);
+                    return {
+                        passou: true,
+                        retorno: res
+                    };
+                } catch(err) {
+                    return {
+                        passou: false,
+                        retorno: err.response.data
+                    }
+                }
+            }
         }
     };
 
@@ -33,6 +78,9 @@ export const AuthProvider = ({ children }) => {
         setToken(null);
         localStorage.removeItem('objex@auth_user');
         localStorage.removeItem('objex@auth_token');
+        return (
+            <Navigate to='/login/admin' />
+        )
     }
 
     const retrive_user_data = async() => {

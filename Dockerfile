@@ -1,30 +1,32 @@
-# Stage 1: Build the React application
-FROM node:18 AS build
+# Etapa 1: Construir a aplicação
+FROM node:18 AS builder 
 
-# Set the working directory
+# Definir o diretório de trabalho
 WORKDIR /app
 
-# Copy package.json and package-lock.json
+# Copiar package.json e package-lock.json
 COPY package*.json ./
 
-# Install dependencies
+# Instalar dependências
 RUN npm install
 
-# Copy the rest of the application code
+# Copiar o código fonte
 COPY . .
 
-# Build the React application
+# Executar a build
 RUN npm run build
 
-# Stage 2: Serve the React application
+# Etapa 2: Servir a aplicação
 FROM nginx:alpine
 
-# Copy the build artifacts from the previous stage
-COPY ./nginx.conf /etc/nginx/conf.d/default.conf
-COPY --from=build /app/dist /usr/share/nginx/html 
+# Copiar os arquivos da build do Vite para o diretório que o Nginx serve
+COPY --from=builder /app/dist /usr/share/nginx/html
 
-# Expose port 80
-EXPOSE 80
+# Copiar o arquivo de configuração do Nginx (opcional)
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Start Nginx
+# Expor a porta 80
+EXPOSE 5173
+
+# Comando padrão para iniciar o Nginx
 CMD ["nginx", "-g", "daemon off;"]
