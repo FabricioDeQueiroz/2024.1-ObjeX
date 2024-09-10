@@ -19,6 +19,8 @@ O ObjeX é uma plataforma web de auxilio ao professor projetada para promover a 
 
 ### Exemplo de Casos de Teste para utilizar nas Atividades de Implementação:
 
+O caso de teste deve ser **salvo em um arquivo** chamado **"teste.py"** (Há apenas a interpretação de **código implementado em Python**) ou outro nome semelhante, desde que termine em **".py"**.
+
 ```python
 usuario = Usuario("João", 30, "123.456.789-00")
 
@@ -29,7 +31,11 @@ assert usuario.idade == 30
 assert usuario.cpf == "123.456.789-00"
 ```
 
+<br>
+
 ### Exemplo de Resposta válida da Atividade com os Casos de Teste definido acima:
+
+A resposta da atividade pode ser implementada diretamente na página dedicada à responder atividades, quando logado como Aluno.
 
 ```python
 class Usuario:
@@ -62,6 +68,8 @@ class Usuario:
 </h2>
 
 [![Tecnologias](https://skillicons.dev/icons?i=js,react,nodejs,mongodb)](https://skillicons.dev)
+
+<br>
 
 <h2>
     👨‍💻 Integrantes
