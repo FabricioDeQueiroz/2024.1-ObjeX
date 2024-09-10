@@ -31,14 +31,14 @@ o ScrumXP é uma abordagem que combina a gestão de projeto do Scrum com as prá
 ![Srum](assets/scrum.jpg){: style="height:auto", width="100%"}
 
 
-| Nome da Atividade         | Método                 | Ferramentas            | Entrega
+| Nome da Atividade         | Método                 | Meio            | Entrega
 | -----------               | ---------------------- | ---------------------- | ---------------------
-| Elicitação e Descoberta   | Reunião com o Cliente, Brainstorming | Google Meet, Google Docs | Definir RFs e RNFs iniciais e entendimento geral do projeto. 
-| Análise e Consenso        | Feedback               | Google Meet, Google Docs | Refinar RFs e RNFs finais e sugestão de funcionalidades. 
-| Declaração                | Feedback, Tema, Épicos e Histórias de Usuário | Google Meet, Google Sheets | Especificação dos RFs e Histórias de Usuário. 
+| Elicitação e Descoberta   | Reunião com o Cliente, Brainstorming | Reuniões presenciais | Definir RFs e RNFs iniciais e entendimento geral do projeto. 
+| Análise e Consenso        | Feedback               | Reuniões presenciais  | Refinar RFs e RNFs finais e sugestão de funcionalidades. 
+| Declaração                | Feedback, Tema, Épicos e Histórias de Usuário | Miro | Especificação dos RFs e Histórias de Usuário. 
 | Representação             | Prototipação rápida    | Figma   | Protótipo básico. 
-| Verificação e Validação   | Feedback               | Github Projects      | Backlog e Priorização de RFs.
-| Organização e Atualização | Kanban (Scrum board)   | Github Projects | Backlog e Priorização de RFs. 
+| Verificação e Validação   | Feedback               | Trello, Miro     | Backlog e Priorização de RFs.
+| Organização e Atualização | Kanban (Scrum board)   | Trello, Miro | Backlog e Priorização de RFs. 
 
 ## Atividades de Requisitos
 
@@ -56,7 +56,7 @@ Após a análise, os requisitos refinados são formalizados nesta fase. Isso inc
 
 ### **Verificação e Validação:**
 
-Uma vez especificados, os requisitos passarão por uma revisão detalhada para garantir sua precisão, completude e consistência. O feedback contínuo é incorporado ao processo através de revisões regulares dos requisitos e da validação com o cliente a cada iteração. E também serão desenvolvidos testes de software para ajudar na validação dos requisitos do sistema.
+Uma vez especificados, os requisitos passarão por uma revisão detalhada para garantir sua precisão, completude e consistência. O feedback contínuo é incorporado ao processo através de revisões regulares dos requisitos e da validação com o cliente a cada iteração.
 
 ### **Representação:** 
 
@@ -64,7 +64,7 @@ Durante todo o processo, os requisitos serão representados por meio de prototip
 
 ### **Organização e Atualização:**
 
-Por fim, os requisitos serão organizados e atualizados continuamente ao longo do desenvolvimento. Isso será feito através de um Kanban (Scrum board) em uma ferramenta de gerenciamento de projetos como o GitHub Projects, garantindo que os requisitos sejam gerenciados de forma eficaz e priorizados corretamente.
+Por fim, os requisitos serão organizados e atualizados continuamente ao longo do desenvolvimento. Isso será feito através de um Kanban (Scrum board) em uma ferramenta de gerenciamento de projetos como o Trello, garantindo que os requisitos sejam gerenciados de forma eficaz e priorizados corretamente.
 
 
 
@@ -76,5 +76,6 @@ Por fim, os requisitos serão organizados e atualizados continuamente ao longo d
 |1.1|05/04/2024| Processo, cliclo de vida, processo e atividades | Grupo |
 |1.2|17/04/2024| Atualização | Grupo |
 |1.3|06/08/2024| Revisão e Atualização | Grupo |
+|1.4|09/09/2024| Revisão e Atualização | Grupo |
 
 

@@ -22,7 +22,7 @@ São conjuntos de funcionalidades de nível mais alto, estão dividos de acordo 
 
 São unidades de trabalho que entregam valor direto aos stakeholders. Representam pedaços significativos de funcinalidades que podem ser desenvolvidos, testados e entregues de forma incremental.
 
-### Features - Professor e Professor Admin
+### Features - Professor 
 ![Features - Professor e Professor Admin](assets/feature-professor.png){: style="height:auto", width="100%"}
 
 ### Features - Professor Admin

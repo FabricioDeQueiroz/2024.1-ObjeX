@@ -62,7 +62,6 @@ Tabela 3 - Pontuação das User Stories
 |US35 | 4                | 3           | 7         |
 |US36 | 4                | 3           | 7         |
 |US04 | 4                | 2           | 6         |
-|US08 | 4                | 2           | 6         |
 |US12 | 4                | 2           | 6         |
 |US20 | 3                | 3           | 6         |
 |US21 | 3                | 3           | 6         |
@@ -72,9 +71,6 @@ Tabela 3 - Pontuação das User Stories
 |US34 | 4                | 2           | 6         |
 |US02 | 3                | 2           | 5         |
 |US06 | 3                | 2           | 5         |
-|US07 | 2                | 3           | 5         |
-|US09 | 2                | 3           | 5         |
-|US10 | 2                | 3           | 5         |
 |US14 | 3                | 2           | 5         |
 |US15 | 2                | 3           | 5         |
 |US33 | 4                | 1           | 5         |
@@ -84,6 +80,8 @@ Tabela 3 - Pontuação das User Stories
 |US39 | 3                | 3           | 7         |
 |US40 | 3                | 3           | 7         |
 |US41 | 3                | 3           | 7        |
+|US42 | 3                | 3           | 7        |
+|US43 | 3                | 3           | 7        |
 
 </center>
 
@@ -92,4 +90,4 @@ Tabela 3 - Pontuação das User Stories
 | Versão | Data       | Descrição                                                         | Autor(es)       |
 |--------|------------|-------------------------------------------------------------------|-----------------|
 | 1.0    | 06/08/2024 | Criação da página, Valor de Negócio, Dificuldade e Pontuação |Grupo   |
-| 1.1    | 20/09/2024 | Revisão e atualização |Nicollas   |
+| 1.1    | 09/09/2024 | Revisão e atualização |Nicollas   |

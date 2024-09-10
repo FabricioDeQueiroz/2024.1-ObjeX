@@ -26,7 +26,7 @@ O conceito de MVP (Minimum Viable Product), ou Produto Mínimo Viável, é funda
 | EP01 - Professor|US23 | Eu como professor, quero ser capaz de deletar uma atividade para caso ela não seja mais necessária |
 | EP01 - Professor|US24 | Eu como professor quero emitir planilhas de grupos formados para facilitar a organização dos mesmos |
 | EP01 - Professor|US25 | Eu como professor quero emitir planilhas de turmas para facilitar a organização das mesmas|
-| EP01 - Professor|US26 | Eu como professor quero acessar as respostas de código que foram corrigidas pelo sistema|
+| EP01 - Professor|US26 | Eu como professor quero acessar as respostas de código que foram corrigidas pelo sistema para que atribuir nota|
 | EP01 - Professor|US27 | Eu como professor Admin, quero ser capaz de cadastrar um professor para que ele consiga exercer suas funções |
 | EP01 - Professor|US28 | Eu como professor Admin, quero ser capaz de editar um professor para alterar suas informações |
 | EP01 - Professor|US29 | Eu como professor Admin, quero ser capaz de visualizar um professor para verificar suas informações|
