@@ -12,6 +12,19 @@ O ObjeX é uma plataforma web de auxilio ao professor projetada para promover a 
 
 <br>
 
+### Credencias de Login - Administrador:
+
+Para realizar Login como Administrador, é necessário clicar no botão "Menu Sanduíche" que se encontra na **esquerda da Navbar**, e selecionar "Login Admin". Com isso, o usuário terá acesso a criação de Turmas e Professores, e a partir de um acesso por meio do "Login Professor", terá acesso a criação de Alunos, Grupos e Atividades. Consequentemente, podendo também ir até o "Login Aluno", assim concluindo os acessos com os três tipos de Personas mapeados para o MVP.
+
+#### Email para Login Admin: 
+> <p>admin@admin.com</p>
+#### Senha para Login Admin: 
+> Z.mb4k6iG09`RN7#:Tu3lx_[3~{xFj~R^HpA[Ot-*Lyf^M£EZ
+
+A criação de Professor irá gerar uma senha que será enviada para o email que for informado durante a criação do mesmo. Já a criação de Aluno, e sua posterior Ativação a partir da página "Primeiro Acesso" encontrada no "Login Aluno", também irá gerar uma senha para o email informado durante a Ativação da conta.
+
+<br>
+
 ### Diagrama Respresentando o Fluxo de Utilização da Aplicação:
 ![Fluxo de Utilização ObjeX](https://github.com/user-attachments/assets/0e0296e7-ce93-4a91-a0ff-7a93dabc7fcb)
 
